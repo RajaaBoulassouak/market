@@ -30,7 +30,7 @@ pry(main)> vendor.inventory
 
 pry(main)> vendor.check_stock("Peaches")
 #=> 0
-
+                  #re_stock
 pry(main)> vendor.stock("Peaches", 30)
 #=> 30
 
